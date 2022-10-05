@@ -1,18 +1,15 @@
+<!--
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRamseier)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
-**MrRamseier/MrRamseier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRamseier)](https://github.com/anuraghazra/github-readme-stats)
 -->
+Reasons why I'm not in front of my PC:
+- 🛸 flying my UAVs outside
+- 🤖 testing my UAVs inside
+- 🏔️ enjoying the nature
+- 🥳 enjoying my life
+- etc you get the point
+
+
+Have a nice day! 
