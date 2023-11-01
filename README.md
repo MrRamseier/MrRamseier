@@ -6,7 +6,6 @@
 -->
 Reasons why I'm not in front of my PC:
 - 🛸 flying my UAVs outside
-- 🤖 testing my UAVs inside
 - 🏔️ enjoying the nature
 - 🥳 enjoying my life
 - etc you get the point
