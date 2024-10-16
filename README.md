@@ -1,7 +1,4 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRamseier)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Reasons why I'm not in front of my PC:
 - 🛸 flying my UAVs outside
 - 🏔️ enjoying the nature
@@ -10,3 +7,6 @@ Reasons why I'm not in front of my PC:
 
 
 Have a nice day! 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRamseier&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
